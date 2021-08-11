@@ -1,0 +1,4 @@
+﻿  QuestionThree.cpp
+C:\Users\chris\source\repos\QuestionThree\QuestionThree\QuestionThree.cpp(46,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\chris\source\repos\QuestionThree\QuestionThree\QuestionThree.cpp(62,5): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\chris\source\repos\QuestionThree\QuestionThree\QuestionThree.cpp(48,10): warning C4101: 'ch': unreferenced local variable

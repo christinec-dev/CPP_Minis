@@ -1,0 +1,3 @@
+﻿  QuestionOne.cpp
+C:\Users\chris\source\repos\QuestionOne\QuestionOne\QuestionOne.cpp(22,10): warning C4101: 'GCDFraction': unreferenced local variable
+  QuestionOne.vcxproj -> C:\Users\chris\source\repos\QuestionOne\x64\Debug\QuestionOne.exe
